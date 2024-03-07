@@ -10,7 +10,7 @@ Welcome to Pygame Tetris, a classic Tetris game implemented in Python using the 
 ## How to Play
 1. Clone the repository to your local machine.
 2. Make sure you have Windows.
-3. Run `tetris.exe` in standalone folder to start the game.
+3. Run `tetris.exe` along with the `_internal` sub-folder from the standalone folder to play the game.
 4. Use the arrow keys to move the falling blocks and the spacebar to rotate them.
 5. Clear lines by filling them completely with blocks to score points.
 6. The game ends when the blocks reach the top of the screen.
