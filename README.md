@@ -2,10 +2,7 @@
 
 Welcome to Pygame Tetris, a classic Tetris game implemented in Python using the Pygame library!
 
-<video width="480" height="240" controls>
-  <source src="Tetris_standalone_exe/_internal/pygame/Tetris_Walkover.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[![Pygame Tetris Demo](https://img.youtube.com/vi/VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID_HERE)
 
 ## How to Play
 1. Clone the repository to your local machine.
