@@ -2,7 +2,7 @@
 
 Welcome to Pygame Tetris, a classic Tetris game implemented in Python using the Pygame library!
 
-[![Pygame Tetris Demo](https://img.youtube.com/vi/VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID_HERE)
+[![Pygame Tetris Demo](https://github.com/Ubaid01/Tetris_Clone/tree/main/Tetris_standalone_exe/_internal/tetris_icon.jpg)](https://www.linkedin.com/posts/obaid-majeed-423539253_tetris-python-pygame-activity-7171224347443933185-73R0?utm_source=share&utm_medium=member_desktop)
 
 ## How to Play
 1. Clone the repository to your local machine.
